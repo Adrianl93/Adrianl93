@@ -1,4 +1,4 @@
-<img height="150" width="800" src="./LinkedinBanner.png" />
+<img height="200" width="800" src="./LinkedinBanner.png" />
 
 # Hola! mi nombre es Adrian Laborde
 
